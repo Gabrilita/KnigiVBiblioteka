@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|c:\\users\\gabri\\source\\repos\\knigivbiblioteka\\knigivbiblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\knigivbiblioteka\\icomparerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\icomparerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\knigivbiblioteka\\kniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\kniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\knigivbiblioteka\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\knigivbiblioteka\\belezinakniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\belezinakniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IComparerBook.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\IComparerBook.cs",
+              "RelativeDocumentMoniker": "KnigiVBiblioteka\\IComparerBook.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\IComparerBook.cs",
+              "RelativeToolTip": "KnigiVBiblioteka\\IComparerBook.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:29.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\IPrint.cs",
+              "RelativeDocumentMoniker": "KnigiVBiblioteka\\IPrint.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\IPrint.cs",
+              "RelativeToolTip": "KnigiVBiblioteka\\IPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:56:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeleziNaKniga.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\BeleziNaKniga.cs",
+              "RelativeDocumentMoniker": "KnigiVBiblioteka\\BeleziNaKniga.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\BeleziNaKniga.cs",
+              "RelativeToolTip": "KnigiVBiblioteka\\BeleziNaKniga.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:48:42.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kniga.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\Kniga.cs",
+              "RelativeDocumentMoniker": "KnigiVBiblioteka\\Kniga.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\Kniga.cs",
+              "RelativeToolTip": "KnigiVBiblioteka\\Kniga.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:48:26.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\Program.cs",
+              "RelativeDocumentMoniker": "KnigiVBiblioteka\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\KnigiVBiblioteka\\KnigiVBiblioteka\\Program.cs",
+              "RelativeToolTip": "KnigiVBiblioteka\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:45:14.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

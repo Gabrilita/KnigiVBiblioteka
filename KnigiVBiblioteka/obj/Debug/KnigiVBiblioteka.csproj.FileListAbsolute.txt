@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.exe.config
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.exe
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.pdb
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.exe
+C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.pdb
