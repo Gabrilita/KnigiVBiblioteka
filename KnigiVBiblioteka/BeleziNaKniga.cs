@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KnigiVBiblioteka
 {
-    public class BeleziNaKniga:Kniga, IPrint
+    public class BeleziNaKniga:Kniga,IPrint
     {
         private string izdatelstvo;
         private int godina;
@@ -60,7 +60,7 @@ namespace KnigiVBiblioteka
         public override void AverageAge(List<BeleziNaKniga> list)
         {
             double averageAge = list.Average(x => x.Godina);
-            Console.WriteLine($"Srednata vuzrast na knigite v bibliotekata e {averageAge} godini.");
+            Console.WriteLine($"Srednata vuzrast na knigite v bibliotekata e {averageAge:F2} godini.");
         }
         public override void Print()
         {

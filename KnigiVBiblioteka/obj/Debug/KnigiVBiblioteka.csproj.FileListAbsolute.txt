@@ -5,3 +5,10 @@ C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBi
 C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.pdb
 C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.exe
 C:\Users\gabri\source\repos\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.pdb
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.exe
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\obj\Debug\KnigiVBiblioteka.pdb
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.exe.config
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.exe
+C:\Users\gabri\OneDrive\Работен плот\KnigiVBiblioteka\KnigiVBiblioteka\bin\Debug\KnigiVBiblioteka.pdb
