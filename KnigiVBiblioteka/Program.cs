@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -104,7 +105,28 @@ namespace KnigiVBiblioteka
                 Console.WriteLine("-----------------------------------------Knigi sled sortirane:-----------------------------------------");
                 list.ForEach(x => x.Print());
                 Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                Console.WriteLine();
+
+                using (StreamWriter writer = new StreamWriter("knigi.txt"))
+                {
+                    foreach (var kniga in list)
+                    {
+                        writer.WriteLine($"Kniga: {kniga.Zaglavie}; Avtor: {kniga.Avtor}; Izdatelstvo: {kniga.Izdatelstvo}; Godina: {kniga.Godina}; Nomer v kataloga:{kniga.Nomer}");
+                    }
+                }
+
+                Console.WriteLine("-----------------------------------------------knigi.txt-----------------------------------------------");
+                using (StreamReader reader = new StreamReader("knigi.txt"))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        Console.WriteLine(line);
+                    }
+                }
+                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
                 Console.ReadKey();
+
             }
             catch (ArgumentOutOfRangeException ex)
             {

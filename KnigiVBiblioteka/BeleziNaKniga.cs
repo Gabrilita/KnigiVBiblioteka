@@ -65,7 +65,7 @@ namespace KnigiVBiblioteka
         public override void Print()
         {
             base.Print();
-            Console.WriteLine($"Izdatelstvo: {this.izdatelstvo}; Godina: {this.godina}; Nomer v kataloga:{this.nomer}");
+            Console.WriteLine($"Izdatelstvo: {this.Izdatelstvo}; Godina: {this.Godina}; Nomer v kataloga:{this.Nomer}");
         }
     }
 }

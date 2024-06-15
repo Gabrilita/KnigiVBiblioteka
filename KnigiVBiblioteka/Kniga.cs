@@ -44,7 +44,7 @@ namespace KnigiVBiblioteka
         public abstract void AverageAge(List<BeleziNaKniga> list);
         public virtual void Print()
         {
-            Console.Write($"Kniga: {this.zaglavie}; Avtor: {this.avtor}; ");
+            Console.Write($"Kniga: {this.Zaglavie}; Avtor: {this.Avtor}; ");
         }
     }
 }
