@@ -57,9 +57,9 @@ namespace KnigiVBiblioteka
                 }
                 //Izvejda cqlata informaciq za knigite.
                 Console.WriteLine();
-                Console.WriteLine("--------------------------------------------Vsichki knigi:---------------------------------------------");
+                Console.WriteLine("--------------------------------------------------Vsichki knigi:--------------------------------------------------");
                 list.ForEach(x => x.Print());
-                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine();
                 //Izvejda dannite za kniga po zadadeno zaglavie na kniga.
                 
@@ -72,9 +72,9 @@ namespace KnigiVBiblioteka
                     var namerenaKniga = list.FirstOrDefault(x => x.Zaglavie.Equals(knigaZaTursene, StringComparison.OrdinalIgnoreCase));
                     if (namerenaKniga != null)
                     {
-                        Console.WriteLine("-------------------------------------------Namerenata kniga:-------------------------------------------");
+                        Console.WriteLine("-------------------------------------------------Namerenata kniga:------------------------------------------------");
                         namerenaKniga.Print();
-                        Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                        Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
                         foundBook = true;
                     }
                     else
@@ -85,29 +85,30 @@ namespace KnigiVBiblioteka
                 }
 
                 //Izvejda nai-starata kniga
-                Console.WriteLine("-------------------------------------------Nai-starata kniga:------------------------------------------");
+                Console.WriteLine("--------------------------------------------Nai-starata kniga:----------------------------------------------------");
                 list.OrderBy(x => x.Godina).Take(1).ToList().ForEach(x => x.Print());
-                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine();
                 //izchislqva sredna vuzrast na knigite v bibliotekata.
-                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
                 if (list.Count > 0)
                 {
                     BeleziNaKniga book = list.First();
                     book.AverageAge(list);
                 }
-                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine();
 
                 //Sortirane po avtor i nomer v kataloga.
                 IComparerBook comparerBook = new IComparerBook();
                 list.Sort(comparerBook);
-                Console.WriteLine("-----------------------------------------Knigi sled sortirane:-----------------------------------------");
+                Console.WriteLine("-----------------------------------------------Knigi sled sortirane:----------------------------------------------");
                 list.ForEach(x => x.Print());
-                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
+                Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine();
 
-                using (StreamWriter writer = new StreamWriter("knigi.txt"))
+                StreamWriter writer = new StreamWriter("knigi.txt");
+                using (writer)
                 {
                     foreach (var kniga in list)
                     {
@@ -115,18 +116,16 @@ namespace KnigiVBiblioteka
                     }
                 }
 
-                Console.WriteLine("-----------------------------------------------knigi.txt-----------------------------------------------");
-                using (StreamReader reader = new StreamReader("knigi.txt"))
+                Console.WriteLine("-----------------------------------------------------knigi.txt----------------------------------------------------");
+                StreamReader reader = new StreamReader("knigi.txt");
+                using (reader)
                 {
-                    string line;
-                    while ((line = reader.ReadLine()) != null)
-                    {
-                        Console.WriteLine(line);
-                    }
-                }
-                Console.WriteLine("-------------------------------------------------------------------------------------------------------");
-                Console.ReadKey();
 
+                    string line = reader.ReadToEnd();
+                    Console.WriteLine(line);
+                }
+                Console.WriteLine("------------------------------------------------------------------------------------------------------------------");
+                Console.ReadKey();
             }
             catch (ArgumentOutOfRangeException ex)
             {

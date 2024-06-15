@@ -50,8 +50,7 @@
               "RelativeToolTip": "KnigiVBiblioteka\\BeleziNaKniga.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAgwEMAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:48:42.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:48:42.109Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "KnigiVBiblioteka\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\Program.cs",
               "RelativeToolTip": "KnigiVBiblioteka\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAHEAAAA6AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T13:45:14.568Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "KnigiVBiblioteka\\IComparerBook.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:23:29.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:23:29.211Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "KnigiVBiblioteka\\IPrint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:56:30.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:56:30.498Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "KnigiVBiblioteka\\Kniga.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwC4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:48:26.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:48:26.846Z"
             }
           ]
         }
