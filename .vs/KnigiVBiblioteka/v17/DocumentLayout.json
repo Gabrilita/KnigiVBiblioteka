@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\knigivbiblioteka\\knigivbiblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\knigivbiblioteka\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\knigivbiblioteka\\kniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\kniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\knigivbiblioteka\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\knigivbiblioteka\\icomparerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\icomparerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\knigivbiblioteka\\knigivbiblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\knigivbiblioteka\\belezinakniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\belezinakniga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\knigivbiblioteka\\icomparerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A1A3D-CAA4-481C-8E68-4796EE7F7B33}|KnigiVBiblioteka\\KnigiVBiblioteka.csproj|solutionrelative:knigivbiblioteka\\icomparerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\IPrint.cs",
+              "RelativeDocumentMoniker": "KnigiVBiblioteka\\IPrint.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\IPrint.cs",
+              "RelativeToolTip": "KnigiVBiblioteka\\IPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:56:30.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,52 +56,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BeleziNaKniga.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\BeleziNaKniga.cs",
               "RelativeDocumentMoniker": "KnigiVBiblioteka\\BeleziNaKniga.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\BeleziNaKniga.cs",
               "RelativeToolTip": "KnigiVBiblioteka\\BeleziNaKniga.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwEMAAABwAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:48:42.109Z"
+              "WhenOpened": "2024-06-11T13:48:42.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\Program.cs",
               "RelativeDocumentMoniker": "KnigiVBiblioteka\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\Program.cs",
               "RelativeToolTip": "KnigiVBiblioteka\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHsAAAAyAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwCoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T13:45:14.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IComparerBook.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\IComparerBook.cs",
               "RelativeDocumentMoniker": "KnigiVBiblioteka\\IComparerBook.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\IComparerBook.cs",
               "RelativeToolTip": "KnigiVBiblioteka\\IComparerBook.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:23:29.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPrint.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\IPrint.cs",
-              "RelativeDocumentMoniker": "KnigiVBiblioteka\\IPrint.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\IPrint.cs",
-              "RelativeToolTip": "KnigiVBiblioteka\\IPrint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:56:30.498Z"
+              "WhenOpened": "2024-06-11T14:23:29.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,9 +101,10 @@
               "RelativeDocumentMoniker": "KnigiVBiblioteka\\Kniga.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\KnigiVBiblioteka\\KnigiVBiblioteka\\Kniga.cs",
               "RelativeToolTip": "KnigiVBiblioteka\\Kniga.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwC4AAABCAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:48:26.846Z"
+              "WhenOpened": "2024-06-11T13:48:26.846Z",
+              "EditorCaption": ""
             }
           ]
         }
